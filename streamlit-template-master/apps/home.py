@@ -18,4 +18,4 @@ def app():
     m.add_basemap("ROADMAP")
     m.to_streamlit(height=700)
     
-    st.components.v1.html(https://app.powerbi.com/links/yJVtxNDlzY?ctid=0e0db2ad-c416-47c7-88ec-ceac4ee76767&pbi_source=linkShare)
+    st.components.v1.html(https://app.powerbi.com/view?r=eyJrIjoiOGVhNTA1YmMtY2VhYy00Nzk4LTk3NzQtYzI4OTA5OTczNDEzIiwidCI6IjBlMGRiMmFkLWM0MTYtNDdjNy04OGVjLWNlYWM0ZWU3Njc2NyIsImMiOjEwfQ%3D%3D)
