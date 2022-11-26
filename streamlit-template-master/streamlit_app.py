@@ -11,7 +11,6 @@ apps = [
     {"func": home.app, "title": "Home", "icon": "house"},
     {"func": heatmap.app, "title": "Heatmap", "icon": "map"},
     {"func": upload.app, "title": "Upload", "icon": "cloud-upload"},
-    {"func": powerbi.app, "title": "PowerBI"},
 ]
 
 titles = [app["title"] for app in apps]
