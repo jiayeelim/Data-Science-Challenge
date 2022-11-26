@@ -20,4 +20,4 @@ def app():
     m.to_streamlit(height=700)
 
     # embed streamlit docs in a streamlit app
-    st.components.v1.iframe("https://app.powerbi.com/view?r=eyJrIjoiOGVhNTA1YmMtY2VhYy00Nzk4LTk3NzQtYzI4OTA5OTczNDEzIiwidCI6IjBlMGRiMmFkLWM0MTYtNDdjNy04OGVjLWNlYWM0ZWU3Njc2NyIsImMiOjEwfQ%3D%3D&pageName=ReportSection0f765a7eda61c7c2a3c8", width=500, height=700)
+    components.iframe("https://app.powerbi.com/view?r=eyJrIjoiOGVhNTA1YmMtY2VhYy00Nzk4LTk3NzQtYzI4OTA5OTczNDEzIiwidCI6IjBlMGRiMmFkLWM0MTYtNDdjNy04OGVjLWNlYWM0ZWU3Njc2NyIsImMiOjEwfQ%3D%3D&pageName=ReportSection0f765a7eda61c7c2a3c8")
