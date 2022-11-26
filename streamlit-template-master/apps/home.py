@@ -17,3 +17,5 @@ def app():
     m = leafmap.Map(locate_control=True)
     m.add_basemap("ROADMAP")
     m.to_streamlit(height=700)
+    
+    st.components.v1.html(https://app.powerbi.com/links/yJVtxNDlzY?ctid=0e0db2ad-c416-47c7-88ec-ceac4ee76767&pbi_source=linkShare)
